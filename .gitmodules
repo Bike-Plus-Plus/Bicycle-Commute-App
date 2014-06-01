@@ -1,0 +1,3 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/monking/bicycle-commute.git
